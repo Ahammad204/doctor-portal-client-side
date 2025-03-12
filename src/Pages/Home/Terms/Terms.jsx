@@ -7,7 +7,7 @@ const Terms = () => {
     <div className="hero bg-base-200 min-h-screen">
       <div className="hero-content flex-col lg:flex-row gap-40">
         <motion.img
-          src="../../../../public/assets/images/treatment.png"
+          src="../../../assets/images/treatment.png"
           className="w-full lg:max-w-sm rounded-lg shadow-2xl"
           whileHover={{ scale: 1.05 }} // Animation
           transition={{ type: "spring", stiffness: 200 }}

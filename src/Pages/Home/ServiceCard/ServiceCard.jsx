@@ -18,7 +18,7 @@ const ServiceCard = () => {
         >
           <figure className="px-10 pt-10">
             <img
-              src="../../../../public/assets/images/fluoride.png"
+              src="../../../assets/images/fluoride.png"
               alt="Fluoride Treatment"
               className="rounded-xl"
             />
@@ -38,7 +38,7 @@ const ServiceCard = () => {
         >
           <figure className="px-10 pt-10">
             <img
-              src="../../../../public/assets/images/cavity.png"
+              src="../../../assets/images/cavity.png"
               alt="Cavity Filling"
               className="rounded-xl"
             />
@@ -58,7 +58,7 @@ const ServiceCard = () => {
         >
           <figure className="px-10 pt-10">
             <img
-              src="../../../../public/assets/images/whitening.png"
+              src="../../../assets/images/whitening.png"
               alt="Teeth Whitening"
               className="rounded-xl"
             />

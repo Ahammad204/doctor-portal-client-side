@@ -8,7 +8,7 @@ const Banner = () => {
       <div className="hero bg-base-200 min-h-screen ">
         <div className="hero-content flex-col lg:flex-row-reverse gap-28">
           <motion.img
-            src="../../../../public/assets/images/chair.png"
+            src="../../../assets/images/chair.png"
             className="w-full lg:max-w-sm rounded-lg shadow-2xl"
             whileHover={{
                 scale: [null, 1.1, 1.6],

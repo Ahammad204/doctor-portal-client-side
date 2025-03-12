@@ -4,7 +4,7 @@ const ContactUs = () => {
     return (
         <div
           className="bg-cover bg-center bg-no-repeat py-16 px-6 flex justify-center items-center"
-          style={{ backgroundImage: "url('/assets/images/appointment.png')" }}
+          style={{ backgroundImage: "url('../../../assets/images/appointment.png')" }}
         >
           <div className=" bg-opacity-60 p-8 md:p-12 rounded-lg w-full max-w-lg">
             {/* Title Section */}

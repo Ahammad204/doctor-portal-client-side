@@ -15,7 +15,7 @@ const ContactCard = () => {
           transition={{ type: "spring", stiffness: 200 }}
       >
         <figure>
-          <img src="../../../../public/assets/icons/clock.svg" alt="Movie" />
+          <img src="../../../assets/icons/clock.svg" alt="Movie" />
         </figure>
         <div className="card-body">
           <h2 className="card-title">Opening Hours</h2>
@@ -28,7 +28,7 @@ const ContactCard = () => {
         transition={{ type: "spring", stiffness: 200 }}
       >
         <figure>
-          <img className="z-10" src="../../../../public/assets/icons/marker.svg" alt="Movie" />
+          <img className="z-10" src="../../../assets/icons/marker.svg" alt="Movie" />
         </figure>
         <div className="card-body">
           <h2 className="card-title">Visit our location</h2>
@@ -45,7 +45,7 @@ const ContactCard = () => {
           transition={{ type: "spring", stiffness: 200 }}
       >
         <figure>
-          <img className="z-10" src="../../../../public/assets/icons/phone.svg" alt="Movie" />
+          <img className="z-10" src="../../../assets/icons/phone.svg" alt="Movie" />
         </figure>
         <div className="card-body">
           <h2 className="card-title">Contact us now</h2>
