@@ -1,3 +1,4 @@
+import Appointment from "../appointment/Appointment";
 import Banner from "../Banner/Banner";
 import ContactCard from "../ContactCard/ContactCard";
 import ServiceCard from "../ServiceCard/ServiceCard";
@@ -10,6 +11,7 @@ const Home = () => {
     <ContactCard></ContactCard>
     <ServiceCard></ServiceCard>
     <Terms></Terms>
+    <Appointment></Appointment>
 
     </div>
   );
