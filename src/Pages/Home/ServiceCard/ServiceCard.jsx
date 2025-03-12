@@ -8,8 +8,8 @@ const ServiceCard = () => {
         <p className="font-medium text-5xl">Services We Provide</p>
     </div>
 
-    <div className="my-10 mx-1 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
-      <div className="card bg-base-100 w-96 shadow-sm">
+    <div className="my-10  grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+      <div className="card bg-base-100 w-full lg:w-96 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="../../../../public/assets/images/fluoride.png"
@@ -25,7 +25,7 @@ const ServiceCard = () => {
           
         </div>
       </div>
-      <div className="card bg-base-100 w-96 shadow-sm">
+      <div className="card bg-base-100 w-full lg:w-96 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="../../../../public/assets/images/cavity.png"
@@ -41,7 +41,7 @@ const ServiceCard = () => {
           
         </div>
       </div>
-      <div className="card bg-base-100 w-96 shadow-sm">
+      <div className="card bg-base-100 w-full lg:w-96 shadow-sm">
         <figure className="px-10 pt-10">
           <img
             src="../../../../public/assets/images/whitening.png"

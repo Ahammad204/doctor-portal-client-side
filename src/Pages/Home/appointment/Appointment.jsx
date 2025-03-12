@@ -3,16 +3,13 @@ import React from "react";
 const Appointment = () => {
   return (
     <div>
-      <div
-        className="hero "
-        style={{
-          backgroundImage:
-            "url(../../../../public/assets/images/appointment.png)",
-        }}
-      >
-        <div className="hero-overlay"></div>
-      <div className="flex flex-col lg:flex-row gap-10 justify-between">
-        <img className="h-96" src="../../../../public/assets/images/doctor-small.png" alt="" />
+       <div
+      className="hero bg-cover bg-center bg-no-repeat py-16 lg:py-24"
+      style={{ backgroundImage: "url('/assets/images/appointment.png')" }}
+    >
+        
+      <div className="flex flex-col lg:flex-row gap-0 lg:gap-10 justify-between">
+        <img className=" h-96" src="../../../../public/assets/images/doctor-small.png" alt="" />
       <div className="hero-content text-neutral-content text-center">
           <div className="max-w-md">
             <p className="text-[#19D3AE] font-bold text-xl mb-3">Appointment</p>
