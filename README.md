@@ -4,10 +4,10 @@ Doctor Portal is a modern, responsive web application designed to manage doctor 
 
 ## 🚀 Live Preview
 [Click here to view the live website](https://doctorportal12.netlify.app/)  
-*(Replace # with the actual live link)*
+
 
 ![Website Preview](/src/assets/images/doctorportal12.netlify.app_.png)  
-*(Replace # with the actual image URL of your website)*
+
 
 ---
 
